@@ -1,0 +1,6 @@
+{
+  "name": "Piczzle",
+  "description": "Gesture-controlled webcam sliding puzzle game with real-time AI hand tracking",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
